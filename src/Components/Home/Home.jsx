@@ -280,7 +280,7 @@ const Home = () => {
                                 <div className="p-3">
                                     <i className="fa-solid fa-location-dot text-primary"></i>
                                     <p className="location"> South Africa</p>
-                                    <Link to="/south_africa" onClick={backToTop}>
+                                    <Link to="/southafrica" onClick={backToTop}>
                                         <input type="button" className="btn btn-outline-primary" value="View"></input>
                                     </Link>
                                 </div>
