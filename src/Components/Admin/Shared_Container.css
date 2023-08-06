@@ -1,7 +1,7 @@
 .main-container{
     background-color: rgb(255, 247, 237);
     padding:20px;
-    height: 100vh;
+    height: 120vh;
 }
 @media only screen and  (min-width: 768px){
 	.main-container{
