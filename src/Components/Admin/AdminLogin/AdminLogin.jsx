@@ -29,7 +29,7 @@ const AdminLogin = () => {
                 duration: "6000",
             });
             setTimeout(() => {
-                window.location.reload();
+                window.location.href="/adminlogin";
             }, 6000);
         }
     }

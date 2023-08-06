@@ -42,7 +42,7 @@ const Contact = () => {
           position: "top-center",
         });
         setTimeout(() => {
-          navigate(0);
+          navigate("/");
         }, 6000);
 
       }
