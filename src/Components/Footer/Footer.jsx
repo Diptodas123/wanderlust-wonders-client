@@ -127,6 +127,7 @@ const Footer = () => {
                 <div className="row text-center">
                     <div className="col-12 col-md-12 pt-3 d-flex justify-content-center align-content-center">
                         <p className="text-light"><i className="fa-solid fa-copyright mr-2"></i>{new Date().getFullYear()} Wanderlust Wonders. All rights reserved. </p>
+                        <Link to={"/adminlogin"}><input type="button" id="admin-link" className="btn-link" style={{backgroundColor:"transparent",border:"none"}} value={"Admin login"}></input></Link>
                     </div>
                 </div>
             </div>
