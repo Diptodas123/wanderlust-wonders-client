@@ -132,7 +132,7 @@ const Form = () => {
                             <div className="col-12 col-md-4 form-filed">
                                 <div class="form-group">
                                     <label htmlFor="dob">Date Of Birth <span style={{ color: 'red' }}>*</span></label>
-                                    <input type="date" name="dob" onChange={onValueChange} class="form-control" id="dob" aria-describedby="emailHelp" placeholder="Enter Your Name" />
+                                    <input type="date" name="dob" max={"2007-12-31"} onChange={onValueChange} class="form-control" id="dob" aria-describedby="emailHelp" placeholder="Enter Your Name" />
                                 </div>
                             </div>
                         </div>
@@ -204,7 +204,7 @@ const Form = () => {
                             <div className="col-12 col-md-6 form-filed">
                                 <div class="form-group">
                                     <label htmlFor="checkInDate">Check-in Date<span style={{ color: 'red' }}>*</span></label>
-                                    <input type="date" name="checkInDate" onChange={onValueChange} class="form-control" id="checkInDate" max={`2024-12-31`} min="2024-07-26" aria-describedby="emailHelp" />
+                                    <input type="date" min={"2023-09-01"} name="checkInDate" onChange={onValueChange} class="form-control" id="checkInDate" max={`2023-12-31`} aria-describedby="emailHelp" />
                                 </div>
                                 <div class="form-group">
                                     <label htmlFor="destination">Destination<span style={{ color: 'red' }}>*</span></label>
