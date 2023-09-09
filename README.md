@@ -1,6 +1,4 @@
 ﻿# **Wanderlust Wonders**
-# ![](Aspose.Words.708b3fcb-7d68-46de-b039-d0aa7b47aa2d.001.png)**                                    
-
 **Under Guidance Of**
 
 Mr.Ashraf Ali
