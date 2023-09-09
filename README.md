@@ -389,26 +389,26 @@ It is affiliated to National Council of Vocational Training (NCVT), Directorate 
 
 
 # <a name="_toc_250007"></a>**2. INTRODUCTION**
-# Tourism and travel have undergone tremendous growth and diversification to 
-# become a major force in the international economy. Many developing countries 
-# have increased their presence in the market, particularly as travelers have 
-# expanded beyond the more traditional destinations in order to seek out new 
-# places and experiences.The intent of this guide is to provide resources for those 
-# interested in researching current tourism and travel industry and trends, though 
-# a few historical resources have been included for perspective. We have also tried 
-# to include resources that provide data and information that will help researchers 
-# develop their own market profile. We have also covered a few specific areas that 
-# are frequently discussed; however, this guide does not attempt to go into all sectors 
-# of the tourism and travel industry.We have not included resources related to some 
-# emerging trends such as disaster/dark tourism (i.e. going to places affected by a 
-# disaster like New Orleans post-Katrina or Chernobyl) and overtourism because 
-# these emerging areas are in flux and may not have many resources devoted 
-# specifically to them. We have included a few resources related to the airline industry 
-# and other transportation modes that are used to travel and whose business is closely 
-# tied to tourism, but this guide does not focus on transportation. Lastly, this guide 
-# does not focus on larger world events that heavily impact the industry like recessions 
-# or a large scale health crisis like COVID-19; but news and trade publications should 
-# be a good sources for information on how those particular events affect the industry.
+Tourism and travel have undergone tremendous growth and diversification to 
+become a major force in the international economy. Many developing countries 
+have increased their presence in the market, particularly as travelers have 
+expanded beyond the more traditional destinations in order to seek out new 
+places and experiences. The intent of this guide is to provide resources for those 
+interested in researching current tourism and travel industry trends, though 
+a few historical resources have been included for perspective. We have also tried 
+to include resources that provide data and information that will help researchers 
+develop their own market profile. We have also covered a few specific areas that 
+are frequently discussed; however, this guide does not attempt to go into all sectors 
+of the tourism and travel industry. We have not included resources related to some 
+emerging trends such as disaster/dark tourism (i.e. going to places affected by a 
+disaster like New Orleans post-Katrina or Chornobyl) and over-tourism because 
+these emerging areas are in flux and may not have many resources devoted 
+specifically to them. We have included a few resources related to the airline industry 
+and other transportation modes that are used to travel and whose business is closely 
+tied to tourism, but this guide does not focus on transportation. Lastly, this guide 
+does not focus on larger world events that heavily impact the industry like recessions 
+or a large-scale health crisis like COVID-19; but news and trade publications should 
+be a good source for information on how those particular events affect the industry.
 
 
 
@@ -429,13 +429,13 @@ It is affiliated to National Council of Vocational Training (NCVT), Directorate 
 
 # <a name="_toc_250006"></a>**2a. OBJECTIVE**
 ###### **Convenience**
-###### There are various convenience of using a website for a tour and travel. Low-cost method of selling accommodation services.Reduced online marketing spend as OTAs invest in advertising to attract potential customers.Impartial reviews give customers the confidence to book.Users can easily compare various accommodation costs at one place.
+###### There are various conveniences of using a website for a tour and travel. Low-cost method of selling accommodation services. Reduced online marketing spend as OTAs invest in advertising to attract potential customers. Impartial reviews give customers the confidence to book. Users can easily compare various accommodation costs in one place.
 
 ####### **Instant Consultancy**
-You can easily book a tour for yourself as per your convenience and at a very low cost. It will save you from the time needed to go to an tour and travel company’s office and book your trip. It gives an even more clear vision of how your trip is going to be.
+You can easily book a tour for yourself as per your convenience and at a very low cost. It will save you the time needed to go to a tour and travel company’s office and book your trip. It gives an even more clear vision of how your trip is going to be.
 
 
-####### **Overcome the limitations of a physical visit to doctor**
+####### **Overcome the limitations of a physical visit to a doctor**
 A physical office has a lot of limitations starting with the location limit. A physical office is in a fixed location and can only compete with the offices  nearby and have customers in the local region but a website can be internationally accessed as well.
 ####### **Increase sales**
 When you have a wider reach your sales will also increase and add
