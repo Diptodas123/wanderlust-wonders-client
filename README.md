@@ -37,9 +37,9 @@ CF-137, Sector - 1, Salt Lake City, Kolkata - 700 064
 
 **Bachelor of Computer Application**
 
-`                            `**The Heritage Academy**
+**The Heritage Academy**
 
-`        `Kolkata - 700107
+Kolkata - 700107
 
 West Bengal | INDIA |
 
