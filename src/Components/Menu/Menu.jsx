@@ -9,6 +9,7 @@ const Menu = () => {
 
     const logout = () => {
         dispatch({ type: "USER", payload: false });
+        localStorage.removeItem("user");
         navigate("/");
     };
 
@@ -83,7 +84,21 @@ const Menu = () => {
                         </li>
                     </ul>
 
-                    {state ? (
+                    {!state ? (
+                        <div>
+                            <Link to="/login">
+                                <button type="button" className="btn btn-outline-primary">
+                                    Log in
+                                </button>
+                            </Link>
+                            <Link className="ml-3 mr-2" to="/signup">
+                                <button type="button" className="btn btn-outline-primary">
+                                    Sign up
+                                </button>
+                            </Link>
+                        </div>
+
+                    ) : (
                         <form className="nav-bar-form">
                             <li className="nav-item dropdown" style={{ listStyleType: "none" }}>
                                 <div
@@ -103,23 +118,7 @@ const Menu = () => {
                             </li>
 
                         </form>
-
-                    ) : (
-
-
-                        <div>
-                            <Link to="/login">
-                                <button type="button" className="btn btn-outline-primary">
-                                    Log in
-                                </button>
-                            </Link>
-                            <Link className="ml-3 mr-2" to="/signup">
-                                <button type="button" className="btn btn-outline-primary">
-                                    Sign up
-                                </button>
-                            </Link>
-                        </div>
-
+                        
                     )}
 
                 </div>

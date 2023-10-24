@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import "./LogIn.css";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { ToastContainer, toast } from "react-toastify";
 import { getUser } from "../../service/api";
 import { UserContext } from "../../App";
@@ -14,6 +14,8 @@ const LogIn = () => {
         password: ""
     });
     const [users, setUser] = useState([]);
+
+    const navigate = useNavigate();
 
     useEffect(() => {
         getAllUsers();
@@ -50,7 +52,8 @@ const LogIn = () => {
             for (let i = 0; i < users.length; i++) {
                 if (users[i].userEmail === email && password === users[i].userPassword) {
                     dispatch({ type: "USER", payload: true });
-                    window.location.href = "/";
+                    localStorage.setItem("user", "authenticated");
+                    navigate("/");
                 }
             }
             toast.error("Please enter valid username & password");

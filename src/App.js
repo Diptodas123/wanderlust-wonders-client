@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { createContext, React, useReducer } from "react";
+import { createContext, React, useReducer,useEffect } from "react";
 import "./App.css";
 
 import Home from "./Components/Home/Home";
@@ -66,6 +66,12 @@ export const adminn=()=>false;
 function App() {
 
   const [state, dispatch] = useReducer(reducer, initialState);
+
+  useEffect(() => {
+    if (localStorage.getItem("user") === "authenticated") {
+      dispatch({ type: "USER", payload: true });
+    }
+  }, []);
 
   return (
 

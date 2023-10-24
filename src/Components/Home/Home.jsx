@@ -5,6 +5,7 @@ import "./Home.css";
 import { Link } from "react-router-dom";
 import Footer from "../Footer/Footer.jsx";
 import { toast, ToastContainer } from "react-toastify";
+
 const Home = () => {
     const [user, setUser] = useState({
         newsletterEmail: "",
